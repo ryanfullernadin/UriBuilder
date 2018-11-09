@@ -1,0 +1,7 @@
+C:\UriBuilder\UriBuilder\bin\Debug\UriBuilder.exe.config
+C:\UriBuilder\UriBuilder\bin\Debug\UriBuilder.exe
+C:\UriBuilder\UriBuilder\bin\Debug\UriBuilder.pdb
+C:\UriBuilder\UriBuilder\obj\Debug\UriBuilder.csprojAssemblyReference.cache
+C:\UriBuilder\UriBuilder\obj\Debug\UriBuilder.csproj.CoreCompileInputs.cache
+C:\UriBuilder\UriBuilder\obj\Debug\UriBuilder.exe
+C:\UriBuilder\UriBuilder\obj\Debug\UriBuilder.pdb
